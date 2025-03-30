@@ -21,7 +21,6 @@ public class CustomerOrderTest {
         inventory.addItem("Garlic Bread", 15);
     }
     
-	
 	// ToDo: Test placing a valid order
 	// Add items to the order, verify the number of items, and check if the total cost is calculated correctly.
 
